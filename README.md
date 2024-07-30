@@ -4,6 +4,7 @@ Reasources used:
     - class notes/lecture recording
     - xpert learning assist to troubleshoot code.
     
+    
 #Process
     - first created ERD model
     - translated that via visual code studio to a schema that was then copied over to databasein PG admin.
