@@ -1,11 +1,11 @@
 # sql-challenge
-Reasources used:
+Resources used:
     - data provided
     - class notes/lecture recording
     - xpert learning assist to troubleshoot code.
     
     
-#Process
+Process
     - first created ERD model
     - translated that via visual code studio to a schema that was then copied over to databasein PG admin.
     - in PGAdmin tables were created, the data from csv files was inserted.
